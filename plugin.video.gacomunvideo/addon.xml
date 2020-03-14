@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.gacomunvideo" name="GacomunVideo" version="1.0.0" provider-name="Gacomun">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.5.3"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="principal.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">Gacomun Video Test</summary>
+    <description lang="es">Gacomun Video Test Descripcion</description>
+    <disclaimer lang="es"></disclaimer>
+    <summary lang="en">Gacomun Video Test</summary>
+    <description lang="en">Gacomun Video Test Description</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+    <news></news>
+    <assets>
+    	<icon>icon.png</icon>
+      	<fanart>fanart.jpg</fanart>
+        <screenshot></screenshot>
+    </assets>
+  </extension>
+   <extension point="xbmc.service" library="libreria_service.py" start="login|startup">
+  </extension>
+</addon>

@@ -1,0 +1,104 @@
+# Kodi Media Center language file
+# strings 30000 thru 30999 reserved for plugins and plugin settings
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: Spanish (Spanish) (http://www.transifex.com/projects/p/kodi-main/language/en_GB/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# empty string with id 30000
+
+
+msgctxt "#30001"
+msgid "Movie library"
+msgstr "Biblioteca Peliculas"
+
+msgctxt "#30002"
+msgid "Library TVShows"
+msgstr "Biblioteca Series"
+
+msgctxt "#30003"
+msgid "Configure"
+msgstr "Configurar"
+
+msgctxt "#30004"
+msgid "Recent"
+msgstr "Recientementes"
+
+msgctxt "#30005"
+msgid "By Category"
+msgstr "Por Categoria"
+
+msgctxt "#30006"
+msgid "Not seen"
+msgstr "No vistos"
+
+msgctxt "#30007"
+msgid "Sagas"
+msgstr "Sagas"
+
+msgctxt "#30008"
+msgid "Genres"
+msgstr "Generos"
+
+msgctxt "#30009"
+msgid "Title"
+msgstr "Titulo"
+
+msgctxt "#30010"
+msgid "Year"
+msgstr "A�o"
+
+msgctxt "#30011"
+msgid "In Progress"
+msgstr "En Progreso"
+
+msgctxt "#30012"
+msgid "Next page"
+msgstr "Pagina siguiente"
+
+msgctxt "#30013"
+msgid "Online"
+msgstr "Online"
+
+msgctxt "#30014"
+msgid "Full seasons"
+msgstr "Temporadas completas"
+
+msgctxt "#30015"
+msgid "All"
+msgstr "Todos"
+
+msgctxt "#30016"
+msgid "No results"
+msgstr "No hay resultados"
+
+msgctxt "#30017"
+msgid "Tools"
+msgstr "Herramientas"
+
+msgctxt "#30018"
+msgid "Update"
+msgstr "Actualizar"
+
+msgctxt "#30019"
+msgid "Maintenance"
+msgstr "Mantenimiento"
+
+msgctxt "#30020"
+msgid "Updating Gacomun videolibrary...."
+msgstr "Actualizando videoteca Gacomun...."
+
+msgctxt "#30021"
+msgid "State"
+msgstr "Estado"
+
